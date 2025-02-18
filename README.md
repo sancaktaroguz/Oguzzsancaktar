@@ -13,7 +13,7 @@
 - 🎁 Web 3.0
 - 🔬 Micro Frontend
 - 🧐 Monorepo
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 ## My Github Profile Stats
 

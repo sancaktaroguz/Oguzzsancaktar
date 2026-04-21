@@ -6,7 +6,6 @@
 ## I'm a Creative Developer, Dreamer, Idealist, Part time musician!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🔥 Frontend Dev from Digital Architecture
 - ⚛️ React
 - 🅰️ Angular
 - 📊 d3
